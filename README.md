@@ -28,7 +28,7 @@ I’m currently focused on **visionOS**, Apple’s newest frontier for **spatial
 ---
 
 ## 🏅 **My greatest achievements**    
-There are **2 Apps** that have been my greatest: 
+There are **2 Apps** that have been my greatest, along with a **visionOS framework**:
 
 - **Astral Wilds** an app developed for **visionOS**
 This project allows the user to be at the center of the solar system and experience a travel to Mars
@@ -39,6 +39,7 @@ https://apps.apple.com/it/app/astral-wilds/id6504463149?l=en-GB
 A reinvented Tic Tac Toe game that destroyes the standard mechanic of "draws", making it more engaging
 https://apps.apple.com/it/app/tria-tactics/id6502848520?l=en-GB
 
+- **VisionTextArc** a framework for curved text in visionOS
 
 Also, my repositories are public to be looked at!
 
