@@ -39,7 +39,7 @@ https://apps.apple.com/it/app/astral-wilds/id6504463149?l=en-GB or check the rep
 A reinvented Tic Tac Toe game that destroyes the standard mechanic of "draws", making it more engaging
 https://apps.apple.com/it/app/tria-tactics/id6502848520?l=en-GB or check the repository here https://github.com/Dave-Ed-Cast/TriaTactics
 
-- **VisionTextArc** a framework for curved text in visionOS! Check it here https://github.com/Dave-Ed-Cast/VisionTextArc
+- **VisionTextArc** a visionOS package library for curved text! Check it here https://github.com/Dave-Ed-Cast/VisionTextArc
 
 Also, my repositories are public to be looked at!
 
