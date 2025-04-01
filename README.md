@@ -10,7 +10,6 @@ During my first year at the Academy, I dove deep into the development process fo
 - **iOS**: Swift apps with beautiful and accessible user interfaces.  
 - **macOS**: Leveraging macOS-specific capabilities for desktop applications.  
 - **watchOS**: Apps focused on minimalistic interfaces and context-aware notifications.  
-- **tvOS**: Big-screen experiences tailored for media consumption.  
 - **iPadOS**: Harnessing the power of the larger canvas with Pencil support.
 - **visionOS**: Created my first project ever.
 
@@ -23,7 +22,7 @@ Many of the apps developed on these platforms are on the store!
 I’m currently focused on **visionOS**, Apple’s newest frontier for **spatial computing**. My projects revolve around:  
 - Designing intuitive **spatial user interfaces and experiences**.  
 - Building immersive **3D experiences** with **RealityKit**.  
-- Pioneering **augmented, mixed, virtual and extened reality** solutions for next-generation apps.  
+- Pioneering **extended reality (XR)** solutions for next-generation apps.  
 
 ---
 
@@ -31,7 +30,7 @@ I’m currently focused on **visionOS**, Apple’s newest frontier for **spatial
 There are **2 Apps** that have been my greatest, along with a **visionOS framework**:
 
 - **Astral Wilds** an app developed for **visionOS**
-This project allows the user to be at the center of the solar system and experience a travel to Mars
+This project allows the user to be at the center of the solar system, interact with planets, and also experience a space travel to Mars
 https://apps.apple.com/it/app/astral-wilds/id6504463149?l=en-GB or check the repository here https://github.com/Dave-Ed-Cast/Astral-Wilds
 
 
@@ -39,7 +38,7 @@ https://apps.apple.com/it/app/astral-wilds/id6504463149?l=en-GB or check the rep
 A reinvented Tic Tac Toe game that destroyes the standard mechanic of "draws", making it more engaging
 https://apps.apple.com/it/app/tria-tactics/id6502848520?l=en-GB or check the repository here https://github.com/Dave-Ed-Cast/TriaTactics
 
-- **VisionTextArc** a visionOS package library for curved text! Check it here https://github.com/Dave-Ed-Cast/VisionTextArc
+- **VisionTextArc** a visionOS package library for curved text, open source and free to use! Check it here https://github.com/Dave-Ed-Cast/VisionTextArc
 
 Also, my repositories are public to be looked at!
 
